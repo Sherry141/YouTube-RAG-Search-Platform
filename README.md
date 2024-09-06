@@ -46,16 +46,19 @@ After setting up the project, users can interact with the platform through the w
 ## Application Walkthrough
 
 ### Login Screen
-![Login Screen](images/Login.jpg)
 *This is the login screen which allows an already registered user to log in using their credentials.*
 
+![Login Screen](images/Login.jpg)
+
 ### Signup Screen
-![Signup Screen](images/Signup.jpg)
 *This is the signup screen which allows a new user to register.*
 
+![Signup Screen](images/Signup.jpg)
+
 ### Main Screen
-![Main Screen](images/Main.jpg)
 *Once the user has successfully logged in, the user is redirected to the main screen. This screen shows the list of channels and a window where prompts can be written and answers will be displayed.*
+
+![Main Screen](images/Main.jpg)
 
 ### Prompt Examples
 Here are three examples of prompts given to our model, demonstrating its functionality and integration with the frontend.
@@ -65,8 +68,10 @@ Here are three examples of prompts given to our model, demonstrating its functio
 ![Prompt Example 3](images/Prompt3.jpg)
 
 ### Final Interaction Screen
-![Final Interaction](images/Final.jpg)
 *This screen captures the final interaction with our model, showcasing how it handles multiple prompts seamlessly.*
+
+![Final Interaction](images/Final.jpg)
+
 
 ## Acknowledgments
 Aaraiz Hassan - Frontend and Integration
