@@ -4,7 +4,7 @@
 This project is a specialized search engine designed to enhance user engagement with YouTube's educational content. Videos from specific educational YouTube channels were used to create a vector database with ChromaDB. When a user queries, relevant chunks are fetched and sent to OpenAI API along with the original user query. The answer is displayed to the user, who can then further continue the conversation. 
 By limiting the pool of knowledge of GPT to reliable sources of information, we ensure it provides accurate responses, which is vital for education. Further, the responses take into account the style and context of the specific channels.  
 
-### For more details, please see the [Project Report](Project%20Report.pdf)
+### For a comprehensive explanation of the project, including methodologies, results, and reflections, please see our [Project Report](Project%20Report.pdf). 
 
 ## Key Features
 - **Specialized Educational Search**: Users can perform searches using natural language or keywords to find precise answers from curated educational YouTube channels.
@@ -74,19 +74,14 @@ Here are three examples of prompts given to our model, demonstrating its functio
 
 
 ## Acknowledgments
-Aaraiz Hassan - Frontend and Integration
+- Aaraiz Hassan - Frontend and Integration
+- Arooba Maqsood - Backend Development and Reporting
+- Ayza Shuja - Backend Development and Reporting
+- Bisma Nawaz - Backend Development and Presentation
+- M. Talha Tariq - Frontend Issues and Integration
+- Shaheer Akhtar - Backend Development and Integration
 
-Arooba Maqsood - Backend Development and Reporting
-
-Ayza Shuja - Backend Development and Reporting
-
-Bisma Nawaz - Backend Development and Presentation
-
-M. Talha Tariq - Frontend Issues and Integration
-
-Shaheer Akhtar - Backend Development and Integration
-
-This project was developed as part of the course 'Generative AI' at LUMS University, Lahore under the guidance of our professor Dr. Agha Ali Raza. 
+This project was developed as part of the course 'Speech and Language Processing with Generative AI' at LUMS University, Lahore under the guidance of our professor Dr. Agha Ali Raza. 
 
 Reflections
 Our journey through the development of VidHarbor was filled with learning and challenges. This project not only enhanced our technical skills but also taught us valuable lessons in teamwork and iterative development.
