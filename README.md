@@ -75,11 +75,17 @@ Here are three examples of prompts given to our model, demonstrating its functio
 
 ## Acknowledgments
 Aaraiz Hassan - Frontend and Integration
+
 Arooba Maqsood - Backend Development and Reporting
+
 Ayza Shuja - Backend Development and Reporting
+
 Bisma Nawaz - Backend Development and Presentation
+
 M. Talha Tariq - Frontend Issues and Integration
+
 Shaheer Akhtar - Backend Development and Integration
+
 This project was developed as part of the course 'Generative AI' at LUMS University, Lahore under the guidance of our professor Dr. Agha Ali Raza. 
 
 Reflections
